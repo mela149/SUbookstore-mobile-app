@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SU Book Store</string>
+    <array name="category_entries">
+        <item>Fiction</item>
+        <item>Non Fiction</item>
+        <item>Thriller</item>
+        <item>Fantasy</item>
+    </array>
+</resources>
